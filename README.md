@@ -1,7 +1,6 @@
 ---
 
 # Agentic AI for ADA (Cardano) News & Price Analysis
-
 This repository showcases a **minimal agentic AI** that:
 1. Fetches current Cardano (ADA) prices from a public API.
 2. Retrieves headlines (in this demo, static examples).

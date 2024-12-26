@@ -1,11 +1,11 @@
 ---
-
 # Agentic AI for ADA (Cardano) News & Price Analysis
-This repository showcases a **minimal agentic AI** that:
-1. Fetches current Cardano (ADA) prices from a public API.
-2. Retrieves headlines (in this demo, static examples).
-3. Performs sentiment analysis on the headlines using a Hugging Face sentiment model.
-4. Produces a **Buy**, **Sell**, or **Hold** recommendation based on sentiment.
+description: >
+  This repository showcases a **minimal agentic AI** that:
+  1. Fetches current Cardano (ADA) prices from a public API.
+  2. Retrieves headlines (in this demo, static examples).
+  3. Performs sentiment analysis on the headlines using a Hugging Face sentiment model.
+  4. Produces a **Buy**, **Sell**, or **Hold** recommendation based on sentiment.
 
 > **Important**: This code is for demonstration purposes only and is **not** financial advice.
 

@@ -1,4 +1,3 @@
----
 # Agentic AI for ADA (Cardano) News & Price Analysis
 description: >
   This repository showcases a **minimal agentic AI** that:
@@ -7,7 +6,8 @@ description: >
   3. Performs sentiment analysis on the headlines using a Hugging Face sentiment model.
   4. Produces a **Buy**, **Sell**, or **Hold** recommendation based on sentiment.
 
-> **Important**: This code is for demonstration purposes only and is **not** financial advice.
+important_note: |
+  **Important**: This code is for demonstration purposes only and is **not** financial advice.
 
 ---
 

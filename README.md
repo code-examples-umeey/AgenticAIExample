@@ -1,5 +1,3 @@
-Below is a sample `README.md` you can place in your GitHub repository for the agentic AI code described earlier. Feel free to modify it as needed.
-
 ---
 
 # Agentic AI for ADA (Cardano) News & Price Analysis
